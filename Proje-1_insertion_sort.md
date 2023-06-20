@@ -22,7 +22,8 @@ Big O Notation : O(n^2)
 -----------------------------------------------------------
 **CEVAP-3** 
 
-Time Complexity: sayı sıralandıktan sonra 18 sayısı Average Case kapsamıa girer.																
+Time Complexity: sayı sıralandıktan sonra 18 sayısı Average Case kapsamıa girer.												
+
 -----------------------------------------------------------
 
 **CEVAP-4**
