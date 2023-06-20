@@ -1,7 +1,9 @@
 # patika.dev_veri_analizi
 Proje Ödevler
 
-**PROJE -1** 				**INSERTION SORT**
+# PROJE-1  
+## INSERTION SORT
+
 
 -----------------------------------------------------------
 **CEVAP-1**
